@@ -1,0 +1,13 @@
+Server has started
+Request for /start received
+About to route a request for /start
+Request handler 'start' was called
+Request for /favicon.ico received
+About to route a request for /favicon.ico
+No request handler found for /favicon.ico
+Request for /upload received
+About to route a request for /upload
+Request handler 'upload' was called
+Request for /favicon.ico received
+About to route a request for /favicon.ico
+No request handler found for /favicon.ico
